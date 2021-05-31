@@ -1,6 +1,7 @@
 # 👋I'M VIJAY
 ## TAMIL NADU, INDIA
 ### 💻 SOFTWARE DEVELOPER & DESIGNER
+### மென்பொறியாளர்
 
 ### ❤️ Open Source Contributor
 ```
